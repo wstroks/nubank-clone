@@ -16,7 +16,7 @@
     Projeto
 </h2>
 
-Estudo React-native, clonando aplicação nubank através de [videos aulas](https://www.youtube.com/watch?v=DDm0M_rZLJo&t=303s).
+Estudo React-native, clonando aplicação nubank através da [video aula](https://www.youtube.com/watch?v=DDm0M_rZLJo&t=303s).
 
 <h2 title='#tecnologias'>
     Tecnologias
